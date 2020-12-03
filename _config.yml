@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
 title: Welcome to Arihant's homepage!
 description: Feel free to bookmark this to keen an eye on my project updates 
+
+minimal_mistakes_skin: "mint" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
